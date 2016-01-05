@@ -1,6 +1,6 @@
 # Middleman-Bowerify
 
-`middleman-bowerify` is an extension for the [Middleman] static site generator that adds facilities to work with bower for assetes management.
+`middleman-bowerify` is an extension for the [Middleman](https://middlemanapp.com/) static site generator that adds facilities to work with bower for assetss management.
 
 ## Installation
 
